@@ -12,8 +12,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosilva425&show_icons=true&locale=en&layout=compact" alt="dosilva425" /></p>
+<p style="background-color: #222222;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosilva425&show_icons=true&locale=en&layout=compact" alt="dosilva425" /></p>
 
 <br>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dosilva425" alt="dosilva425" /></a> </p>
+<p style="background-color: #222222;"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dosilva425" alt="dosilva425" /></a></p>
