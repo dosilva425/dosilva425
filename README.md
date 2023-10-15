@@ -27,8 +27,5 @@
   </a>
 </p>
 
-<!-- Espaço em branco -->
-<br>
-
 <!-- Estatísticas de Linguagens -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosilva425&show_icons=true&locale=en&layout=compact&theme=dark" alt="dosilva425" /></p>
