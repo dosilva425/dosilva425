@@ -32,13 +32,3 @@
 
 <!-- Estatísticas de Linguagens -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosilva425&show_icons=true&locale=en&layout=compact&theme=dark" alt="dosilva425" /></p>
-
-<!-- Espaço em branco -->
-<br>
-
-<!-- Troféus do Perfil -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dosilva425&theme=dracula" alt="dosilva425" />
-  </a>
-</p>
