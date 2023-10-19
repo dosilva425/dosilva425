@@ -9,7 +9,7 @@
 <!-- Links de Redes Sociais -->
 <p align="left">
   <a href="https://linkedin.com/in/in/débora-de-oliveira-silva-10501922a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/deboradeoliveirasilva" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/deboradeoliveirasilva/" height="30" width="40" />
   </a>
 </p>
 
