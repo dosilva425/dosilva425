@@ -1,32 +1,11 @@
-<!-- Título -->
-<h1 align="left">Olá, eu sou a Débora! 👋</h1>
+<h1> Olá, eu sou a Débora! 👋</h1>
+Atualmente estou cursando desenvolvimento de software com foco em backend na Cubos Academy e finalizando o mestrando em filosofia na Unicamp. Estou em processo de transição de carreira, buscando atuar com desenvolvimento de software backend. No curso estou aprendendo a linguagem JavaScript e a exercito através de exercícios e desafios. Meu objetivo profissional é conseguir um cargo como desenvolvedora de software backend.
 
-<!-- Introdução -->
-<p align="left" style="text-align: justify">
-  Atualmente estou cursando desenvolvimento de software com foco em backend na Cubos Academy e finalizando o mestrando em filosofia na Unicamp. Estou em processo de transição de carreira, buscando atuar com desenvolvimento de software backend. No curso estou aprendendo a linguagem JavaScript e a exercito através de exercícios e desafios. Meu objetivo profissional é conseguir um cargo como desenvolvedora de software backend.
-</p>
 
-<!-- Links de Redes Sociais -->
-<!--
-<p align="left">
-  <a href="https://linkedin.com/in/in/débora-de-oliveira-silva-10501922a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deboradeoliveirasilva/" height="30" width="40" />
-  </a>
-</p> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deboradeoliveirasilva) 
 
-<!-- Habilidades -->
-<h3 align="left">My Skills:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+# 💻 My Skills:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- Estatísticas de Linguagens -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosilva425&show_icons=true&locale=en&layout=compact&theme=dark" alt="dosilva425" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
