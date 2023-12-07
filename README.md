@@ -1,5 +1,5 @@
 <h1> Hi, I'm Débora! 👋</h1>
-I'm currently studying software development with a focus on back-end at Cubos Academy and finishing my master's degree in philosophy at Unicamp. I'm in the process of a career transition, looking to work in back-end development. In the course I'm learning the JavaScript language and practicing it through exercises and challenges. <br>
+I'm currently studying software development with a focus on back-end at Cubos Academy and finishing my master's degree in philosophy at Unicamp. I'm in the process of a career transition, looking to work in back-end development. In the course, I'm learning the JavaScript language and practicing it through exercises and challenges. <br>
 My professional goal is to get a job as a back-end developer.
 
 
