@@ -1,5 +1,8 @@
 <h1> Hi, I'm Débora! 👋</h1>
 I'm formed in philosophy and currently in the process of a career transition to the field of technology. I've always been interested by technology because of its practicality and innovation, now I'm dedicating intensively to work in the field.
+<br>
+<br>
+I'm currently studying back-end software development, improving my knowledge of JavaScript, Node.js and SQL.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deboradeoliveirasilva) 
